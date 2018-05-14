@@ -1,0 +1,8 @@
+/.settings
+.project
+.classpath
+/target
+/bin
+docs/spotsystem_erd.vpp.*
+nb-configuration.xml
+src/main/webapp/WEB-INF/glassfish-web.xml
